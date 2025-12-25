@@ -1,2 +1,4 @@
-# Tesla
-PowerWallApp
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAECYvY3wVTGZ/ORcgccNFVkJvpitWN
+x/D5N+776Y9uR/hV2ycxvPwLQ5gyr86bDEB3W9T2Q6+qBhUSF1/bZ++CxA==
+-----END PUBLIC KEY-----
